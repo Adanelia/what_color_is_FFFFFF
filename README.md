@@ -14,6 +14,8 @@ A simple tool to visualize hex color code.
 
 *Made with [Godot](https://godotengine.org/).*
 
+![](screenshots/screenshot.png)
+
 ## Installation
 
 [Release](https://github.com/Adanelia/what_color_is_FFFFFF/releases).
@@ -25,22 +27,22 @@ Copy your color code and switch to the app window, it'll show color in the color
 
 ### Supported format
 ```
-  #FFFFFFFF
-  #ffffffff
-  FFFFFFFF
-  ffffffff
-  #FFFFFF
-  #ffffff
-  FFFFFF
-  ffffff
-  #FFFF
-  #ffff
-  FFFF
-  ffff
-  #FFF
-  #fff
-  FFF
-  fff
+#FFFFFFFF
+#ffffffff
+FFFFFFFF
+ffffffff
+#FFFFFF
+#ffffff
+FFFFFF
+ffffff
+#FFFF
+#ffff
+FFFF
+ffff
+#FFF
+#fff
+FFF
+fff
 ```
 
 As described in the Godot docs:
@@ -60,7 +62,7 @@ var c4 = Color("b2d90a") # RGB format.
 
 [Download Godot Engine](https://godotengine.org/download) if you don't have one.
 
-This project has been made with *Godot3.4*, but I think any version of *3.x* is ok.
+This project was made with *Godot3.4*, but I think any version of *3.x* is ok.
 
 ### Steps
 
